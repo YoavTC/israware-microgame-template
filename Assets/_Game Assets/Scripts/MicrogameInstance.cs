@@ -11,7 +11,7 @@ namespace _Game_Assets.Scripts
 {
     public class MicrogameInstance : MonoBehaviour
     {
-        private GameManager gameManager;
+        // private GameManager gameManager;
         [SerializeField, ReadOnly] private MicrogameScriptableObject microgame;
 
         [SerializeField, ReadOnly] private MicrogameSettingsStruct microgameSettings;
@@ -20,20 +20,27 @@ namespace _Game_Assets.Scripts
 
         [SerializeField] private float winFinishDelay;
         [SerializeField] private float LoseFinishDelay;
+
+        private Timer timer;
         
         
         private void Start()
         {
-            gameManager = GameManager.Instance;
+            // gameManager = GameManager.Instance;
             
-            if (gameManager != null)
-            {
-                Debug.Log("Manager is not null using it..");
-                microgame = gameManager.CurrentMicrogame;
-            } else LoadMicrogameScriptableObject();
+            // if (gameManager != null)
+            // {
+            //     Debug.Log("Manager is not null using it..");
+            //     microgame = gameManager.CurrentMicrogame;
+            // } else 
+            
+            LoadMicrogameScriptableObject();
             
             Cursor.visible = !microgameSettings.hideCursor;
             microgameSettings = microgame.GetSettings();
+            
+            timer = FindFirstObjectByType<Timer>();
+            timer.OnMicrogameLoaded(microgame);
         }
         
         public void Feedback(bool positive)
@@ -42,7 +49,7 @@ namespace _Game_Assets.Scripts
             if (positive) positiveFeedbacksCount++;
             else negativeFeedbacksCount++;
 
-            if (gameManager == null) return;
+            // if (gameManager == null) return;
             if (microgameSettings.positiveFeedbacksToWin > 0 && positiveFeedbacksCount >= microgameSettings.positiveFeedbacksToWin)
             {
                 StartCoroutine(Finish(true));
@@ -56,10 +63,13 @@ namespace _Game_Assets.Scripts
 
         private IEnumerator Finish(bool win = false)
         {
-            gameManager.Timer?.DisableTimer();
+            Debug.Log("Microgame finished!");
+            // gameManager.Timer?.DisableTimer();
+            timer.DisableTimer();
 
             yield return new WaitForSeconds(win ? winFinishDelay : LoseFinishDelay);
-            gameManager?.StartCoroutine(gameManager.OnMicrogameFinished(win));
+            Debug.Log("Exiting scene..");
+            // gameManager?.StartCoroutine(gameManager.OnMicrogameFinished(win));
         }
 
         private void LoadMicrogameScriptableObject()
@@ -77,7 +87,7 @@ namespace _Game_Assets.Scripts
         
         private void Update()
         {
-            if (gameManager == null && Input.GetKeyDown(KeyCode.R))
+            if (Input.GetKey(KeyCode.RightShift) && Input.GetKeyDown(KeyCode.R))
             {
                 EditorSceneManager.LoadSceneInPlayMode(SceneManager.GetActiveScene().path, new LoadSceneParameters(LoadSceneMode.Single));
             }

@@ -6,47 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/Main.unity
-    guid: b48081dacdcdbe14fa9c4239ec036200
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/testingMicrogame/testingMicrogame.unity
-    guid: e591db11757f895429feef78505032e5
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/testingMicrogame2/testingMicrogame2.unity
-    guid: 17156e95ffae39e4dbad1a4659592080
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/testingMicrogame3/testingMicrogame3.unity
-    guid: 2e2fa7d1366650b429b7473e00f08ced
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/matkot/matkot.unity
-    guid: 42a17a6908151ca47af6d9656be90d6e
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/throwKeterChair/throwKeterChair.unity
-    guid: 0165b427669f60144937ac849d032e46
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/b/b.unity
-    guid: 17b6ad7fbdee66247b2c9bf784e6b70b
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/sortKosherFood/sortKosherFood.unity
-    guid: 769d7acc47325ca4daff44bb0c546368
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/sortKosherFood/sortKosherFood.unity
-    guid: f4691a20ac1da9f498306a30b052857a
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/rythem/rythem.unity
-    guid: cd8d9acae36332c4a9f5721d77cbcb48
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/rhythm/rhythm.unity
-    guid: a4d5fa7f8cdd22345abb872b1aa79d6f
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/gatherProtestors/gatherProtestors.unity
-    guid: 41880a03811ce274785dab9b0bd2cd6d
-  - enabled: 1
-    path: Assets/_Game Assets/Microgames/NewMicrogame/NewMicrogame.unity
-    guid: 438896b610ec18f41a1830e9b9d01da7
+    path: Assets/_Scenes/Welcome.unity
+    guid: d6994348949e8ad42b8adb9b3fc2c259
   - enabled: 1
     path: Assets/_Game Assets/Microgames/demoMicrogame/demoMicrogame.unity
-    guid: e67464decf8583941ba0ca764c778b29
+    guid: 2c50f97e82023f048b3376f9bc8f48fd
+  - enabled: 1
+    path: Assets/_Game Assets/Microgames/demoMicrogame2/demoMicrogame2.unity
+    guid: 22a582e1ae4fbd94bb880da44f38b3e8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

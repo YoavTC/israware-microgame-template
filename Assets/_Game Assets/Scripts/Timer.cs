@@ -51,6 +51,7 @@ namespace _Game_Assets.Scripts
             if (time <= 0f)
             {
                 TimerFinishedUnityEvent?.Invoke(valueAtEnd);
+                Debug.Log("Timer finished");
                 timerActive = false;
             }
         }

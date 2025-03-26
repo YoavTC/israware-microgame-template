@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32918d70757248b8816b6119d043acc9, type: 3}
+  m_Name: demoMicrogame2
+  m_EditorClassIdentifier: 
+  id: demoMicrogame2
+  ENGLISH_PROMPT: Finish The Maze!
+  HEBREW_PROMPT: "\u05E4\u05EA\u05E8\u05D5 \u05D0\u05EA \u05D4\u05DE\u05D1\u05D5\u05DA!"
+  hideCursor: 1
+  positiveFeedbacksToWin: 1
+  negativeFeedbacksToLose: 1
+  maxMicrogameTime: 10
+  winAtTimerFinish: 0

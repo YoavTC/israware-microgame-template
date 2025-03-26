@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 16859dd00ce546a88a1f6f4703c363cb
+timeCreated: 1721764034
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/Scripts/SceneViewDrawers/VectorSceneViewDrawer.cs
+  uploadId: 688460

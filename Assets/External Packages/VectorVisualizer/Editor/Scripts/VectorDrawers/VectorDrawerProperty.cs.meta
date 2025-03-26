@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4ed03fc5d6be41389afaade0a42d5ec0
+timeCreated: 1724874955
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/Scripts/VectorDrawers/VectorDrawerProperty.cs
+  uploadId: 688460

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: aa6fb1091cc247e4ac0d8132dc06f655
+timeCreated: 1722090605
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/Scripts/PanelDrawers/ProfileSelectionPanelDrawer.cs
+  uploadId: 688460

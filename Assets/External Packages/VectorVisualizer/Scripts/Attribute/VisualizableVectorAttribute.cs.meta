@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ec4756e1547f44e493438a9f1fa6ddf7
+timeCreated: 1724788564
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Scripts/Attribute/VisualizableVectorAttribute.cs
+  uploadId: 688460

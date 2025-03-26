@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f16adf97ab594142b2d93668b4b072fe
+timeCreated: 1721767467
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/Scripts/VectorDrawers/CubeDrawer.cs
+  uploadId: 688460

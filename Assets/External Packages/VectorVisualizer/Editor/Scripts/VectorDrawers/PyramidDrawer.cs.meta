@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 156444dfffa14999a6e7db3ee0c96f0c
+timeCreated: 1724491614
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/Scripts/VectorDrawers/PyramidDrawer.cs
+  uploadId: 688460

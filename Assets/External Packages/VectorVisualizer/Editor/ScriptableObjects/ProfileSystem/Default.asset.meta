@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cf05a2e1908f4ed2b38a6d4af164170
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294644
+  packageName: Vector Visualizer
+  packageVersion: 1.0
+  assetPath: Assets/VectorVisualizer/Editor/ScriptableObjects/ProfileSystem/Default.asset
+  uploadId: 688460

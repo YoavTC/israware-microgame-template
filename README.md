@@ -1,9 +1,23 @@
-﻿# Hello!
+﻿# IsraWare Microgame Template
 
 If you have any questions, contact via Gmail or Discord!
 
 Discord: yoavtc <br>
 Gmail: yoavtc2004@gmail.com
+
+---
+
+## List of existing Microgames:
+
+|   Microgame   |   Credit(s)   |   Date Added   |
+| ------------  | ------------- | -------------- |
+| 🏓 Play Matkot on the Beach | [YoavTC](https://github.com/YoavTC) | 03/10/2025 |
+| 🪑 Throw Keter Chair at Ars | [YoavTC](https://github.com/YoavTC) | 15/10/2025 |
+| 🏷️ Sort Kosher Food | [YoavTC](https://github.com/YoavTC) | 19/10/2025 |
+| 🎹 HaTikva Rhythm Game | [YoavTC](https://github.com/YoavTC) | 24/10/2025 |
+| 📢 Gather Protestors | [YoavTC](https://github.com/YoavTC) | 25/10/2025 |
+| 🍺 Beer Pouring | [YoavTC](https://github.com/YoavTC) | 26/10/2025 |
+
 
 
 ---
@@ -129,6 +143,9 @@ You can delay the switching to the next scene by setting `winFinishDelay` / `los
 
 
 ### Exporting
+
+> You're also welcome to make a new branch of this repo with your Microgame, so you can keep updating it! 
+
 Please make sure you credited everyone needed, and made a file in the Microgame's directory with your information for crediting. <br>
 Then click `Assets/Export Package...` and deselect everything but the Microgame's assets directory and the Settings file. <br>
 ![](https://i.imgur.com/9dSVFYK.png) <br>

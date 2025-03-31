@@ -11,12 +11,13 @@ Gmail: yoavtc2004@gmail.com
 
 |   Microgame   |   Credit(s)   |   Date Added   |
 | ------------  | ------------- | -------------- |
-| 🏓 Play Matkot on the Beach | [YoavTC](https://github.com/YoavTC) | 03/10/2025 |
-| 🪑 Throw Keter Chair at Ars | [YoavTC](https://github.com/YoavTC) | 15/10/2025 |
-| 🏷️ Sort Kosher Food | [YoavTC](https://github.com/YoavTC) | 19/10/2025 |
-| 🎹 HaTikva Rhythm Game | [YoavTC](https://github.com/YoavTC) | 24/10/2025 |
-| 📢 Gather Protestors | [YoavTC](https://github.com/YoavTC) | 25/10/2025 |
-| 🍺 Beer Pouring | [YoavTC](https://github.com/YoavTC) | 26/10/2025 |
+| 🏓 Play Matkot on the Beach | [YoavTC](https://github.com/YoavTC) | 10/03/2025 |
+| 🪑 Throw Keter Chair at Ars | [YoavTC](https://github.com/YoavTC) | 15/03/2025 |
+| 🏷️ Sort Kosher Food | [YoavTC](https://github.com/YoavTC) | 19/03/2025 |
+| 🎹 HaTikva Rhythm Game | [YoavTC](https://github.com/YoavTC) | 24/03/2025 |
+| 📢 Gather Protestors | [YoavTC](https://github.com/YoavTC) | 25/03/2025 |
+| 🍺 Beer Pouring | [YoavTC](https://github.com/YoavTC) | 26/03/2025 |
+| 🌊 Split Red Sea | [YoavTC](https://github.com/YoavTC) | 31/03/2025 |
 
 
 

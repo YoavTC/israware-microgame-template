@@ -9,15 +9,16 @@ Gmail: yoavtc2004@gmail.com
 
 ## List of existing Microgames:
 
-|   Microgame   |   Credit(s)   |   Date Added   |
-| ------------  | ------------- | -------------- |
-| 🏓 Play Matkot on the Beach | [YoavTC](https://github.com/YoavTC) | 10/03/2025 |
-| 🪑 Throw Keter Chair at Ars | [YoavTC](https://github.com/YoavTC) | 15/03/2025 |
-| 🏷️ Sort Kosher Food | [YoavTC](https://github.com/YoavTC) | 19/03/2025 |
-| 🎹 HaTikva Rhythm Game | [YoavTC](https://github.com/YoavTC) | 24/03/2025 |
-| 📢 Gather Protestors | [YoavTC](https://github.com/YoavTC) | 25/03/2025 |
-| 🍺 Beer Pouring | [YoavTC](https://github.com/YoavTC) | 26/03/2025 |
-| 🌊 Split Red Sea | [YoavTC](https://github.com/YoavTC) | 31/03/2025 |
+|   Microgame   |  ID   |   Credit(s)   |   Date Added   |
+| ------------  | ----- | ------------- | -------------- |
+| 🏓 Play Matkot on the Beach | `matkot` | [YoavTC](https://github.com/YoavTC) | 10/03/2025 |
+| 🪑 Throw Keter Chair at Ars | `throwKeterChair` | [YoavTC](https://github.com/YoavTC) | 15/03/2025 |
+| 🏷️ Sort Kosher Food | `sortKosherFood` | [YoavTC](https://github.com/YoavTC) | 19/03/2025 |
+| 🎹 HaTikva Rhythm Game | `rhythm` | [YoavTC](https://github.com/YoavTC) | 24/03/2025 |
+| 📢 Gather Protestors | `gatherProtestors` | [YoavTC](https://github.com/YoavTC) | 25/03/2025 |
+| 🍺 Beer Pouring | `pourBeer` | [YoavTC](https://github.com/YoavTC) | 26/03/2025 |
+| 🌊 Split Red Sea | `splitRedSea` | [YoavTC](https://github.com/YoavTC) | 31/03/2025 |
+| 🚀 Type Airstrike Missle Code | `airstrikeTyping` | [YoavTC](https://github.com/YoavTC) | 02/04/2025 |
 
 
 

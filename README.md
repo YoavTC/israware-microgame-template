@@ -20,6 +20,7 @@ Gmail: yoavtc2004@gmail.com
 | 🌊 Split Red Sea | `splitRedSea` | [YoavTC](https://github.com/YoavTC) | 31/03/2025 |
 | 🚀 Type Airstrike Missle Code | `airstrikeTyping` | [YoavTC](https://github.com/YoavTC) | 02/04/2025 |
 | 🦵 Rip Nebuchadnezzar II's limbs | `ripNebuchadnezzar` | [YoavTC](https://github.com/YoavTC) | 03/04/2025 |
+| 🔍 Spot the Differences | `spotTheDifferences` | [YoavTC](https://github.com/YoavTC) | 08/04/2025 |
 
 
 

@@ -22,6 +22,8 @@ Gmail: yoavtc2004@gmail.com
 | 🦵 Rip Nebuchadnezzar II's limbs | `ripNebuchadnezzar` | [YoavTC](https://github.com/YoavTC) | 03/04/2025 |
 | 🔍 Spot the Differences | `spotTheDifferences` | [YoavTC](https://github.com/YoavTC) | 07/04/2025 |
 | 🍎 Resist the Forbidden Fruit | `forbiddenFruit` | [YoavTC](https://github.com/YoavTC) | 09/04/2025 |
+| ☕ Make Coffee | `makeCoffee` | [YoavTC](https://github.com/YoavTC) | 14/04/2025 |
+| ⛷️ Trip Skier as Bibi [(reference)](https://www.youtube.com/watch?v=LjmnUfbMjws) | `bibiSki` | [YoavTC](https://github.com/YoavTC) | 20/04/2025 |
 
 
 

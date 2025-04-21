@@ -24,6 +24,8 @@ Gmail: yoavtc2004@gmail.com
 | 🍎 Resist the Forbidden Fruit | `forbiddenFruit` | [YoavTC](https://github.com/YoavTC) | 09/04/2025 |
 | ☕ Make Coffee | `makeCoffee` | [YoavTC](https://github.com/YoavTC) | 14/04/2025 |
 | ⛷️ Trip Skier as Bibi [(reference)](https://www.youtube.com/watch?v=LjmnUfbMjws) | `bibiSki` | [YoavTC](https://github.com/YoavTC) | 20/04/2025 |
+| 🪙 Catch the Shekel | `catchShekel` | [YoavTC](https://github.com/YoavTC) | 21/04/2025 |
+| 🧩 Matza Split | `matzaSplit` | [Yair Gurevich](https://github.com/yairgurza) | 21/04/2025 |
 
 
 

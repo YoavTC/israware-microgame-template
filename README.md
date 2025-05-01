@@ -26,6 +26,10 @@ Gmail: yoavtc2004@gmail.com
 | ⛷️ Trip Skier as Bibi [(reference)](https://www.youtube.com/watch?v=LjmnUfbMjws) | `bibiSki` | [YoavTC](https://github.com/YoavTC) | 20/04/2025 |
 | 🪙 Catch the Shekel | `catchShekel` | [YoavTC](https://github.com/YoavTC) | 21/04/2025 |
 | 🧩 Matza Split | `matzaSplit` | [Yair Gurevich](https://github.com/yairgurza) | 21/04/2025 |
+| 🛴 Wolt Surfers | `woltSurfers` | [YoavTC](https://github.com/YoavTC), [Ohad Dori](https://github.com/OhadDori/) | TBD |
+| 🧃 Poke Tropit with a Straw | `strawTropit` | [YoavTC](https://github.com/YoavTC) | 27/04/2025 |
+| ⚡ Mahsanei Hashmal | `mahsaneiHashmal` | [YoavTC](https://github.com/YoavTC) | 28/04/2025 |
+| 🚺 shmiratNegiah | `dontTouchWomen` | [YoavTC](https://github.com/YoavTC) | 29/04/2025 |
 
 
 

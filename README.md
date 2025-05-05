@@ -7,8 +7,14 @@ Gmail: yoavtc2004@gmail.com
 
 ---
 
-## List of existing Microgames:
+## List of existing Boss Levels:
+|   Boss Level   |  ID   |   Credit(s)   |   Date Added   |
+| ------------  | ----- | ------------- | -------------- |
+| 🔍 Spot the Differences | `spotTheDifferences` | [YoavTC](https://github.com/YoavTC) | 07/04/2025 |
+| 🛴 Wolt Surfers | `woltSurfers` | [YoavTC](https://github.com/YoavTC), [Ohad Dori](https://github.com/OhadDori/) | WIP |
+| 🪖 Defeat Adolf | `defeatAdolf` | [YoavTC](https://github.com/YoavTC) | WIP |
 
+## List of existing Microgames:
 |   Microgame   |  ID   |   Credit(s)   |   Date Added   |
 | ------------  | ----- | ------------- | -------------- |
 | 🏓 Play Matkot on the Beach | `matkot` | [YoavTC](https://github.com/YoavTC) | 10/03/2025 |
@@ -20,19 +26,18 @@ Gmail: yoavtc2004@gmail.com
 | 🌊 Split Red Sea | `splitRedSea` | [YoavTC](https://github.com/YoavTC) | 31/03/2025 |
 | 🚀 Type Airstrike Missle Code | `airstrikeTyping` | [YoavTC](https://github.com/YoavTC) | 02/04/2025 |
 | 🦵 Rip Nebuchadnezzar II's limbs | `ripNebuchadnezzar` | [YoavTC](https://github.com/YoavTC) | 03/04/2025 |
-| 🔍 Spot the Differences **[BOSS]** | `spotTheDifferences` | [YoavTC](https://github.com/YoavTC) | 07/04/2025 |
 | 🍎 Resist the Forbidden Fruit | `forbiddenFruit` | [YoavTC](https://github.com/YoavTC) | 09/04/2025 |
 | ☕ Make Coffee | `makeCoffee` | [YoavTC](https://github.com/YoavTC) | 14/04/2025 |
 | ⛷️ Trip Skier as Bibi [(reference)](https://www.youtube.com/watch?v=LjmnUfbMjws) | `bibiSki` | [YoavTC](https://github.com/YoavTC) | 20/04/2025 |
 | 🪙 Catch the Shekel | `catchShekel` | [YoavTC](https://github.com/YoavTC) | 21/04/2025 |
 | 🧩 Matza Split | `matzaSplit` | [Yair Gurevich](https://github.com/yairgurza) | 21/04/2025 |
-| 🛴 Wolt Surfers **[BOSS]** | `woltSurfers` | [YoavTC](https://github.com/YoavTC), [Ohad Dori](https://github.com/OhadDori/) | WIP |
 | 🧃 Poke Tropit with a Straw | `strawTropit` | [YoavTC](https://github.com/YoavTC) | 27/04/2025 |
 | ⚡ Mahsanei Hashmal | `mahsaneiHashmal` | [YoavTC](https://github.com/YoavTC) | 28/04/2025 |
 | 🚺 Shmirat Negiah | `dontTouchWomen` | [YoavTC](https://github.com/YoavTC) | 29/04/2025 |
 | 🗺️ Guess the City | `geoGuessr` | [YoavTC](https://github.com/YoavTC) | 02/05/2025 |
 | 🌡️ Tune the AC | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 | 💘 Reunite Static & Ben El | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
+
 
 
 

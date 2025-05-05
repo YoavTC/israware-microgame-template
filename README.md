@@ -31,6 +31,7 @@ Gmail: yoavtc2004@gmail.com
 | ⚡ Mahsanei Hashmal | `mahsaneiHashmal` | [YoavTC](https://github.com/YoavTC) | 28/04/2025 |
 | 🚺 Shmirat Negiah | `dontTouchWomen` | [YoavTC](https://github.com/YoavTC) | 29/04/2025 |
 | 🗺️ Guess the City | `geoGuessr` | [YoavTC](https://github.com/YoavTC) | 02/05/2025 |
+| 🌡️ Tune the AC | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 
 
 

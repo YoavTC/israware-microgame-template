@@ -11,8 +11,8 @@ Gmail: yoavtc2004@gmail.com
 |   Boss Level   |  ID   |   Credit(s)   |   Date Added   |
 | ------------  | ----- | ------------- | -------------- |
 | 🔍 Spot the Differences | `spotTheDifferences` | [YoavTC](https://github.com/YoavTC) | 07/04/2025 |
+| 🪖 Defeat Adolf | `defeatAdolf` | [YoavTC](https://github.com/YoavTC) | 12/05/2025 |
 | 🛴 Wolt Surfers | `woltSurfers` | [YoavTC](https://github.com/YoavTC), [Ohad Dori](https://github.com/OhadDori/) | WIP |
-| 🪖 Defeat Adolf | `defeatAdolf` | [YoavTC](https://github.com/YoavTC) | WIP |
 
 ## List of existing Microgames:
 |   Microgame   |  ID   |   Credit(s)   |   Date Added   |
@@ -36,7 +36,7 @@ Gmail: yoavtc2004@gmail.com
 | 🚺 Shmirat Negiah | `dontTouchWomen` | [YoavTC](https://github.com/YoavTC) | 29/04/2025 |
 | 🗺️ Guess the City | `geoGuessr` | [YoavTC](https://github.com/YoavTC) | 02/05/2025 |
 | 🌡️ Tune the AC | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
-| 💘 Reunite Static & Ben El | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
+| 💘 Reunite Static & Ben El | `staticToBenEl` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 
 
 

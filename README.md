@@ -37,6 +37,7 @@ Gmail: yoavtc2004@gmail.com
 | 🗺️ Guess the City | `geoGuessr` | [YoavTC](https://github.com/YoavTC) | 02/05/2025 |
 | 🌡️ Tune the AC | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 | 💘 Reunite Static & Ben El | `staticToBenEl` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
+| 🕊️ Help Noah Collect Animals  | `noahsArk` | [YoavTC](https://github.com/YoavTC) | 12/05/2025 |
 
 
 

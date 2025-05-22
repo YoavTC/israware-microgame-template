@@ -38,6 +38,7 @@ Gmail: yoavtc2004@gmail.com
 | 🌡️ Tune the AC | `tuneAC` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 | 💘 Reunite Static & Ben El | `staticToBenEl` | [YoavTC](https://github.com/YoavTC) | 05/05/2025 |
 | 🕊️ Help Noah Collect Animals  | `noahsArk` | [YoavTC](https://github.com/YoavTC) | 12/05/2025 |
+| 🛒 Supermarket Shopping  | `shoppingList` | [YoavTC](https://github.com/YoavTC) | 22/05/2025 |
 
 
 
